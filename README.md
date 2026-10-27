@@ -1,4 +1,4 @@
-### Hi there 👋 - Jazz Macedo here
+### Hi there 👋 - Macedo here
 
  <div>
   <a href="https://github.com/jasielmacedo">
@@ -8,10 +8,7 @@
   
 ## 
 <div> 
- 
-  <a href="https://x.com/JazzMacedo" target="_blank"><img src="https://img.shields.io/badge/X-00000?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jasielmacedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
 
 <!--
